@@ -1,5 +1,5 @@
 @Service
-public class UserDetailsServiceImpl implements UserDetailsService {
+public class SubjectService implements UserDetailsService {
     @Autowired
     UserRepository userRepository;
 
